@@ -72,40 +72,6 @@ GenerateClassCluster=0
 DocumentUniqueId=JXVVOJHD
 
 [Document3]
-DocumentPath=..\..\Libraries Altium\REV_1_20.PcbLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=HTSOGDRD
-
-[Document4]
-DocumentPath=..\..\Libraries Altium\REV_1_20.SchLib
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=CKNHMEOE
-
-[Document5]
 DocumentPath=..\..\..\Altium_libs-master (1)\Altium_libs-master\REV_1_20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -122,7 +88,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
+[Document4]
 DocumentPath=..\..\..\Altium_libs-master (1)\Altium_libs-master\REV_1_20.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
