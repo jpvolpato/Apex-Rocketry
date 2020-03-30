@@ -72,7 +72,7 @@ GenerateClassCluster=0
 DocumentUniqueId=PHKMRCWD
 
 [Document3]
-DocumentPath=..\..\bibliotecas altium\Altium_libs-master\Altium_libs-master\REV_1_20.PcbLib
+DocumentPath=..\..\bibliotecas altium\Altium_libs-master\REV_1_20.PcbLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\bibliotecas altium\Altium_libs-master\Altium_libs-master\REV_1_20.SchLib
+DocumentPath=..\..\bibliotecas altium\Altium_libs-master\REV_1_20.SchLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
